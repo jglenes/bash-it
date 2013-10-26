@@ -1,8 +1,8 @@
 cite 'about-alias'
 about-alias 'vim abbreviations'
 
-alias vim='gvim -b --remote-tab'
-alias v=vim
+alias v='mvim -v'
+alias vim='mvim -v'
 alias vv=/usr/bin/vim
 
 case $ostype in
