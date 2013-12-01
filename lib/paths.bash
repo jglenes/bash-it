@@ -7,3 +7,4 @@ export PATH=/usr/local:$PATH
 # Other PATHs
 export PATH=/usr/local/share/npm/bin:$PATH # Node.js
 export PATH=$HOME/.cabal/bin:$PATH # Haskell?
+export PATH=/usr/local/opt/ruby/bin:$PATH # Homebrewed Ruby
